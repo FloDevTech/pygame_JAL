@@ -15,7 +15,7 @@ all_sprites = pygame.sprite.Group()
 player1 = Player(3)
 all_sprites.add(player1)
 
-"""npc1 = NPC(3)  
+"""npc1 = NPC(3)      
 all_sprites.add(npc1)"""
 
 myFont = font.SysFont("Calibri", 20)
